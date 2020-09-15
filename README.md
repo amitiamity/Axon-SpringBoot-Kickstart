@@ -1,2 +1,2 @@
 # Axon-SpringBoot-Kickstart
-CQRS with Event Sourcing. Using Axon for event sourcing and axon server for event stores
+CQRS with Event Sourcing. Using Axon for event sourcing and axon server for event stores. Spring Boot to develop microservice
